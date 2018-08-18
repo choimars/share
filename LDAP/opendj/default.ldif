@@ -1,0 +1,202 @@
+dn: dc=triangles,dc=com
+objectClass: top
+objectClass: domain
+dc: triangles
+
+dn: ou=People,dc=triangles,dc=com
+ou: People
+objectClass: top
+objectClass: organizationalunit
+
+dn: uid=cmars,ou=People,dc=triangles,dc=com
+initials: ASA
+postalCode: 50369
+st: DE
+pager: +1 779 041 6341
+cn:: 7ZmU7ISx
+street: 01251 Chestnut Street
+homePhone: +1 225 216 5900
+telephoneNumber: +1 685 622 6202
+l: Panama City
+userPassword: {SSHA}L44zn60CwB8S/oGQJM1rIs2KHatgZGDml2CFVA==
+employeeNumber: 0
+uid: cmars
+mail: cmars@triangles.co.kr
+description: This is the description for Aaccf Amar.
+postalAddress: Aaccf Amar$01251 Chestnut Street$Panama City, DE  50369
+sn:: 7LWc
+objectClass: top
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: person
+givenName: Aaccf
+mobile: +1 010 154 3228
+
+dn: uid=user.1,ou=People,dc=triangles,dc=com
+initials: ALA
+postalCode: 93694
+st: OH
+pager: +1 850 883 8888
+cn: Aaren Atp
+street: 70110 Fourth Street
+homePhone: +1 280 375 4325
+telephoneNumber: +1 390 103 6917
+l: New Haven
+userPassword: {SSHA}vvRYQTYvMsjE1cwSbbkRaD1SEYKJXv27wWDTZg==
+employeeNumber: 1
+uid: user.1
+mail: user.1@maildomain.net
+description: This is the description for Aaren Atp.
+postalAddress: Aaren Atp$70110 Fourth Street$New Haven, OH  93694
+sn: Atp
+objectClass: top
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: person
+givenName: Aaren
+mobile: +1 680 734 6300
+
+dn: uid=user.2,ou=People,dc=triangles,dc=com
+initials: AOA
+postalCode: 10857
+st: KS
+pager: +1 053 688 9803
+cn: Aarika Atpco
+street: 00900 Maple Street
+homePhone: +1 003 428 0962
+telephoneNumber: +1 757 462 0301
+l: New Orleans
+userPassword: {SSHA}40S6sOgKa7sSyfuMaZqzz2mVXScttmVnrT8njg==
+employeeNumber: 2
+uid: user.2
+mail: user.2@maildomain.net
+description: This is the description for Aarika Atpco.
+postalAddress: Aarika Atpco$00900 Maple Street$New Orleans, KS  10857
+sn: Atpco
+objectClass: top
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: person
+givenName: Aarika
+mobile: +1 279 618 3901
+
+dn: uid=user.3,ou=People,dc=triangles,dc=com
+initials: AKA
+postalCode: 66239
+st: TN
+pager: +1 197 025 3730
+cn: Aaron Atrc
+street: 59748 Willow Street
+homePhone: +1 332 432 4295
+telephoneNumber: +1 094 100 7524
+l: Green Bay
+userPassword: {SSHA}AgJKgjBUFC3sLxoff04btcgA4W4nolz4ct0/Sw==
+employeeNumber: 3
+uid: user.3
+mail: user.3@maildomain.net
+description: This is the description for Aaron Atrc.
+postalAddress: Aaron Atrc$59748 Willow Street$Green Bay, TN  66239
+sn: Atrc
+objectClass: top
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: person
+givenName: Aaron
+mobile: +1 890 430 9077
+
+dn: uid=user.4,ou=People,dc=triangles,dc=com
+initials: ALA
+postalCode: 72311
+st: NC
+pager: +1 951 150 0057
+cn: Aartjan Aalders
+street: 77810 Adams Street
+homePhone: +1 423 009 6628
+telephoneNumber: +1 548 762 2193
+l: Bryan
+userPassword: {SSHA}EBTkFlQtSw19wufMWQqO+A4XsKAm4MAhNwkb9g==
+employeeNumber: 4
+uid: user.4
+mail: user.4@maildomain.net
+description: This is the description for Aartjan Aalders.
+postalAddress: Aartjan Aalders$77810 Adams Street$Bryan, NC  72311
+sn: Aalders
+objectClass: top
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: person
+givenName: Aartjan
+mobile: +1 209 956 9394
+
+dn: uid=user.5,ou=People,dc=triangles,dc=com
+initials: AHA
+postalCode: 76132
+st: NJ
+pager: +1 928 034 3047
+cn: Abagael Aasen
+street: 80905 Meadow Street
+homePhone: +1 563 061 6916
+telephoneNumber: +1 154 428 0080
+l: Salem
+userPassword: {SSHA}G9N4oNnslEXBnLLo8O72RHVoBOxnPmdjC6vupA==
+employeeNumber: 5
+uid: user.5
+mail: user.5@maildomain.net
+description: This is the description for Abagael Aasen.
+postalAddress: Abagael Aasen$80905 Meadow Street$Salem, NJ  76132
+sn: Aasen
+objectClass: top
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: person
+givenName: Abagael
+mobile: +1 516 926 3480
+
+dn: uid=user.6,ou=People,dc=triangles,dc=com
+initials: ASA
+postalCode: 68438
+st: MA
+pager: +1 431 570 9544
+cn: Abagail Abadines
+street: 61394 Adams Street
+homePhone: +1 030 104 9024
+telephoneNumber: +1 236 110 4271
+l: Lynchburg
+userPassword: {SSHA}vvpFT0g1nqDLbdq15LJONJkVkj8jcyqrZm4ZWg==
+employeeNumber: 6
+uid: user.6
+mail: user.6@maildomain.net
+description: This is the description for Abagail Abadines.
+postalAddress: Abagail Abadines$61394 Adams Street$Lynchburg, MA  68438
+sn: Abadines
+objectClass: top
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: person
+givenName: Abagail
+mobile: +1 496 091 6823
+
+dn: uid=user.7,ou=People,dc=triangles,dc=com
+initials: AOA
+postalCode: 04882
+st: IA
+pager: +1 603 439 2066
+cn: Abahri Abazari
+street: 03401 Ninth Street
+homePhone: +1 941 161 6010
+telephoneNumber: +1 000 800 5137
+l: Hattiesburg
+userPassword: {SSHA}Gq2E8G23irVy9q9KGdmFKeM50OXmkcC0/cv9Cw==
+employeeNumber: 7
+uid: user.7
+mail: user.7@maildomain.net
+description: This is the description for Abahri Abazari.
+postalAddress: Abahri Abazari$03401 Ninth Street$Hattiesburg, IA  04882
+sn: Abazari
+objectClass: top
+objectClass: inetorgperson
+objectClass: organizationalperson
+objectClass: person
+givenName: Abahri
+mobile: +1 005 264 0002
+
